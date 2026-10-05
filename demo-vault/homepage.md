@@ -6,6 +6,9 @@ path does not include templates
 tags include #today
 ```
 
+# contexts
+
+[[contexts]]
 # action
 
 ```tasks
