@@ -1,0 +1,12 @@
+- [ ] #project study shelf
+
+- [ ] research colours #today
+- [ ] choose location #action
+- [ ] buy shelf & fixings #context/shops 
+- [ ] put up shelf #context/home
+- [ ] clear away tools
+- [ ] repaint around
+---
+- [ ] like
+- [ ] subscribe
+- [ ] sign up to the mailing list at 0x5.uk

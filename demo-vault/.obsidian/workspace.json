@@ -24,105 +24,49 @@
             }
           },
           {
-            "id": "4092748469ac9cc6",
+            "id": "b551d781860e096d",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "journal/2026-08-13.md",
+                "file": "journal/2026-10-24.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2026-08-13"
+              "title": "2026-10-24"
             }
           },
           {
-            "id": "6982b35d7e048355",
+            "id": "c9133ed6ef0ea03b",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "journal/2026-09-10.md",
+                "file": "1_Projects/study rennovation/put up a shelf.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2026-09-10"
+              "title": "put up a shelf"
             }
           },
           {
-            "id": "18be2364cad6c675",
+            "id": "73882fa446d141ec",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "journal/2026-09-10.md",
+                "file": "subscribe.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2026-09-10"
-            }
-          },
-          {
-            "id": "05c436ac8921abb7",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "journal/2026-08-13.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "2026-08-13"
-            }
-          },
-          {
-            "id": "aaf66799bd40900b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "journal/2026-09-10.md",
-                "mode": "preview",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "2026-09-10"
-            }
-          },
-          {
-            "id": "ae3e120219a5249c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "contexts.md",
-                "mode": "preview",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "contexts"
-            }
-          },
-          {
-            "id": "c160a587b814152c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "contexts.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "contexts"
+              "title": "subscribe"
             }
           }
         ],
-        "currentTab": 7
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -156,7 +100,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "task-todo:#context/laptop",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -177,8 +121,7 @@
               "title": "Bookmarks"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -288,13 +231,17 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "c160a587b814152c",
+  "active": "73882fa446d141ec",
   "lastOpenFiles": [
+    "1_Projects/study rennovation/put up a shelf.md",
+    "subscribe.md",
+    "journal/2026-10-24.md",
     "homepage.md",
+    "1_Projects/example_client_project.md",
+    "1_Projects/study rennovation",
     "contexts.md",
     "journal/2026-09-10.md",
     "journal/2026-08-13.md",
-    "1_Projects/example_client_project.md",
     "1_Projects/song 2",
     "go and learn about **GTD®**.md",
     "journal/2026-08-12.md",

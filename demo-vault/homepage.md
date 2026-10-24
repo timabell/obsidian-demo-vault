@@ -18,7 +18,7 @@ tags include #action
 tags does not include #today
 ```
 
-# projects
+# project checkboxes
 
 ```tasks
 tags include #project 
